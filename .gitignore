@@ -1,0 +1,12 @@
+node_modules/
+.python-deps/
+source/
+.env
+.env.*
+!.env.example
+.sites-runtime/
+qa/
+*.tar.gz
+dist/
+outputs/
+public/*.xlsx
