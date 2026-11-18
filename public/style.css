@@ -3,3 +3,4 @@
 .card-attribute{font-size:10px;color:#667669;margin:4px 0}.card-foot{margin-top:8px}fieldset{border:1px solid #dfe5df;border-radius:6px;margin-top:14px}fieldset label{display:inline-block!important;margin:8px!important}fieldset input{display:inline-block!important;width:auto!important;margin:0!important}#settingsDialog{max-height:90vh;overflow:auto}
 
 .board-card{resize:none}.resize-grip{position:absolute;bottom:0;right:0;width:20px;height:20px;cursor:nwse-resize;touch-action:none;background:linear-gradient(135deg,transparent 55%,#8b9d8e 56%,#8b9d8e 62%,transparent 63%,transparent 72%,#8b9d8e 73%,#8b9d8e 79%,transparent 80%)}
+.catalog-card .price.none{font-size:10px;font-weight:600;color:#9a6a1f}
